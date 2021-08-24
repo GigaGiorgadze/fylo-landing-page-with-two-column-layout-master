@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/htmlcssflexboxfont-awesome-uKTXWZuPh)
+- Live Site URL: [live site UR](https://github.com/GigaGiorgadze/fylo-landing-page-with-two-column-layout-master)
 
 ## My process
 
